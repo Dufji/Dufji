@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Dufji <img src=https://raw.githubusercontent.com/HyperSkys/HyperSkys/main/assets/hi.gif width="29px">
+### 🧑 About Me:
 
-<!--
-**Dufji/Dufji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently 19 years old, currently attending a community college and planning to transfer to a high level university. I have a 4.0 GPA and plan to keep it that way throughout my school years. I want to do freelance programming and want to be a bigger YouTuber in the future. I have been fascinated with technology for as long as I can remember. Hope you will like some of my public projects on my GitHub page! I don't have EVERYTHING public for personal reasons. Some will be though!
 
-Here are some ideas to get you started:
+---
+### 🤹 My Skills
+- C++ - So far I have over a week of experience with this langauge.
+- Python - I have over 5 months of experience with this language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📈 My Github Statistics
+[![Dufji GitHub stats](https://github-readme-stats.vercel.app/api?username=Dufji&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### 📨 Methods of Contact
+
+- Discord: Dufji#9571
+- Twitter: Up Above
+- Business email: dufji.biz@gmail.com
+
+---
+### 📞 Social Media
+
+Twitter: https://twitter.com/RDufji                                                                                                        
+Youtube: https://www.youtube.com/c/Dufji                                                                                                        
+Twitch: https://www.twitch.tv/Dufji                                                                                                      
+Github: https://github.com/Dufji                                
