@@ -16,7 +16,7 @@ I am currently 19 years old, currently attending a community college and plannin
 ### 📨 Methods of Contact
 
 - Discord: Dufji#9571
-- Twitter: Up Above
+- Twitter: Down Below
 - Business email: dufji.biz@gmail.com
 
 ---
