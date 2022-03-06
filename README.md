@@ -1,7 +1,7 @@
 # Hello, I'm Dufji <img src=https://raw.githubusercontent.com/HyperSkys/HyperSkys/main/assets/hi.gif width="29px">
 ### 🧑 About Me:
 
-I am currently 19 years old, currently attending a community college and planning to transfer to a high level university. I have a 4.0 GPA and plan to keep it that way throughout my school years. I want to do freelance programming and want to be a bigger YouTuber in the future. I have been fascinated with technology for as long as I can remember. Hope you will like some of my public projects on my GitHub page! I don't have EVERYTHING public for personal reasons. Some will be though!
+I am currently 19 years old, currently attending a community college and planning to transfer to a high level university. I want to do freelance programming and want to be a bigger YouTuber in the future. I have been fascinated with technology for as long as I can remember. Hope you will like some of my public projects on my GitHub page! I don't have EVERYTHING public for personal reasons. Some will be though!
 
 ---
 ### 🤹 My Skills
