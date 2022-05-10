@@ -19,7 +19,7 @@ I want to learn Java and Kotlin in the future. I plan to study those during the 
 ### How can you contact me?!
 
 - Discord: Dufji#9571
-- Twitter: Twitter is for suckas [It's @RDufji](https://www.twitter.com/RDufji)
+- Twitter: Twitter is for suckas...[It's @RDufji](https://www.twitter.com/RDufji)
 - Business email: dufji.biz@gmail.com
 
 ---
