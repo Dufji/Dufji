@@ -1,4 +1,4 @@
-# Whats Up! The Names Dufji, Don't wear it out! <img src=https://raw.githubusercontent.com/HyperSkys/HyperSkys/main/assets/hi.gif width="29px">
+# Whats Up! The names Dufji, Don't wear it out! <img src=https://raw.githubusercontent.com/HyperSkys/HyperSkys/main/assets/hi.gif width="29px">
 
 ### 🤔 Who am I?
 
@@ -7,7 +7,7 @@ I am currently 19 years old, currently attending a community college and plannin
 ---
 ## What am I familiar with? :Thonk:
 
-I currently know C++ (5 Months of experience!) and Python (9 Months of Experience).
+I currently know C++ (5 Months of Experience!) and Python (9 Months of Experience).
 
 I want to learn Java and Kotlin in the future. I plan to study those during the summer break!
 
