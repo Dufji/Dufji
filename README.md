@@ -1,4 +1,4 @@
-# Whats Up! The names Dufji, Don't wear it out! <img src=https://c.tenor.com/Y2CJWL2bhRkAAAAC/waving.gif width="29px">
+# Whats Up! The names Dufji, Don't wear it out! <img src=https://c.tenor.com/Y2CJWL2bhRkAAAAC/waving.gif width="4px">
 
 ### 🤔 Who am I?
 
