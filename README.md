@@ -1,4 +1,4 @@
-# Whats Up! The names Dufji, Don't wear it out! <img src=https://raw.githubusercontent.com/HyperSkys/HyperSkys/main/assets/hi.gif width="29px">
+# Whats Up! The names Dufji, Don't wear it out! <img src=https://raw.githubusercontent.com/HyperSkys/HyperSkys/main/assets/hi.gif width="19px">
 
 ### 🤔 Who am I?
 
