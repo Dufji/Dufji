@@ -1,4 +1,4 @@
-# Whats Up! The names Dufji, Don't wear it out! <img src=https://user-images.githubusercontent.com/74515562/171557593-fdc61118-0d68-4a14-ba33-563a16f079b1.png width="29px" height="29px">
+# Whats Up! The names Dufji, Don't wear it out! <img src=https://c.tenor.com/Y2CJWL2bhRkAAAAC/waving.gif width="29px" height="29px">
 
 ### 🤔 Who am I?
 
