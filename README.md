@@ -1,7 +1,7 @@
 ---
 ## Experience
 
-I currently know C++ (1+ Year of Experience!) and Python (1+ Year(s) of Experience).
+I currently know C++ (1+ Year(s) of Experience!) and Python (1+ Year(s) of Experience).
 
 I want to learn Java and Kotlin in the future. I plan to study those during the summer break!
 
