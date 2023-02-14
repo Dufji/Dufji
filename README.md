@@ -13,4 +13,4 @@ I want to learn Rust in the future.
 
 - Discord: Dufji#9571
 - Twitter: Twitter is for suckas...[It's @RDufji](https://www.twitter.com/RDufji)
-- Business email: dufji.biz@gmail.com
+- Business email: business@dufji.com
